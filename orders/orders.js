@@ -29,12 +29,12 @@ app.get('/',(req, res) => {
 app.post("/order", (req, res) => {
 
     var newOrder = {
-        // EmployeeID: mongoose.Types.ObjectId(req.body.EmployeeID),
-        // CustomerID: mongoose.Types.ObjectId(req.body.CustomerID),
-        // ObjectID: mongoose.Types.ObjectId(req.body.ObjectID),
-        employeeID: req.body.employeeID,
-        customerID: req.body.customerID,
-        objectID: req.body.objectID,
+        EmployeeID: mongoose.Types.ObjectId(req.body.EmployeeID),
+        CustomerID: mongoose.Types.ObjectId(req.body.CustomerID),
+        ObjectID: mongoose.Types.ObjectId(req.body.ObjectID),
+        // employeeID: req.body.employeeID,
+        // customerID: req.body.customerID,
+        // objectID: req.body.objectID,
         orderCode: req.body.orderCode,
         startAt: req.body.startAt,
         endAt: req.body.endAt

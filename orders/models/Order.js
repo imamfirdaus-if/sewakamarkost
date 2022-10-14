@@ -11,30 +11,30 @@ function oneMonthFromNow() {
 }
 
 mongoose.model("Order", {
-    // employeeID: {
-    //     type: mongoose.SchemaTypes.ObjectId,
-    //     require: true
-    // },
-    // customerID: {
-    //     type: mongoose.SchemaTypes.ObjectId,
-    //     require: true
-    // },
-    // objectID: {
-    //     type: mongoose.SchemaTypes.ObjectId,
-    //     require: true
-    // },
     employeeID: {
-        type: String,
+        type: mongoose.SchemaTypes.ObjectId,
         require: true
     },
     customerID: {
-        type: String,
+        type: mongoose.SchemaTypes.ObjectId,
         require: true
     },
     objectID: {
-        type: String,
+        type: mongoose.SchemaTypes.ObjectId,
         require: true
     },
+    // employeeID: {
+    //     type: String,
+    //     require: true
+    // },
+    // customerID: {
+    //     type: String,
+    //     require: true
+    // },
+    // objectID: {
+    //     type: String,
+    //     require: true
+    // },
     orderCode: {
         type: String,
         require: true
