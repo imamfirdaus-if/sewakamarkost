@@ -25,13 +25,11 @@ app.post("/order", (req, res) => {
     var newOrder = {
         // EmployeeID: mongoose.Types.ObjectId(req.body.EmployeeID),
         // CustomerID: mongoose.Types.ObjectId(req.body.CustomerID),
-        EmployeeID: req.body.EmployeeID,
-        CustomerID: req.body.CustomerID,
+        // ObjectID: mongoose.Types.ObjectId(req.body.ObjectID),
+        employeeID: req.body.employeeID,
+        customerID: req.body.customerID,
+        objectID: req.body.objectID,
         orderCode: req.body.orderCode,
-        namaKost: req.body.namaKost,
-        tipeKost: req.body.tipeKost,
-        lamaSewa: req.body.lamaSewa,
-        price: req.body.price,
         startAt: req.body.startAt,
         endAt: req.body.endAt
     }
