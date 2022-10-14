@@ -3,22 +3,27 @@ const app = express()
 const bodyParser = require("body-parser")
 const mongoose = require("mongoose")
 
+// Load Environment
 require("dotenv").config()
 
-require("./Order")
+// Load models
+require("./models/Order")
 const Order = mongoose.model("Order")
 
 app.use(bodyParser.json())
 
+// Connection to MongoDB Atlas
 mongoose.connect(process.env.MONGODB_URI, {
         useNewUrlParser: true
     })
     .then(() => console.log("Database connected - Orders"))
     .catch(err => console.error(err));
 
+
 app.get('/',(req, res) => {
     res.send("This is main orders service!");
 })
+
 
 app.post("/order", (req, res) => {
 
@@ -45,6 +50,7 @@ app.post("/order", (req, res) => {
     })
 
 })
+
 
 app.get("/orders", (req, res) =>{
     Order.find().then((orders) =>{
