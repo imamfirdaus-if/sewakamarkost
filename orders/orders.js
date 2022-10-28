@@ -29,9 +29,9 @@ app.get('/',(req, res) => {
 app.post("/order", (req, res) => {
 
     var newOrder = {
-        EmployeeID: mongoose.Types.ObjectId(req.body.EmployeeID),
-        CustomerID: mongoose.Types.ObjectId(req.body.CustomerID),
-        ObjectID: mongoose.Types.ObjectId(req.body.ObjectID),
+        employeeID: mongoose.Types.ObjectId(req.body.employeeID),
+        customerID: mongoose.Types.ObjectId(req.body.customerID),
+        objectID: mongoose.Types.ObjectId(req.body.objectID),
         // employeeID: req.body.employeeID,
         // customerID: req.body.customerID,
         // objectID: req.body.objectID,
