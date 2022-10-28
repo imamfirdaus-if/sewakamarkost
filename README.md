@@ -1,6 +1,6 @@
 # Our Team
 
-![1197050081](https://img.shields.io/badge/Social-Media-blue)
+![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue)
 
 # Arsitektur
 
