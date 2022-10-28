@@ -1,9 +1,7 @@
 # Our Team
-
-![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue)
+![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-orange)
 
 # Arsitektur
-
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blue)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
