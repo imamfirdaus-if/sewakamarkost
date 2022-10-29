@@ -1,10 +1,10 @@
 # Our Team
 <p align="center">
 
+<img src="assets/teams/user.png" width="128"/>
+<img src="assets/teams/user.png" width="128"/>
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
+<img src="assets/teams/user.png" width="128"/>
 
 <br>
 
