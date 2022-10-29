@@ -1,9 +1,7 @@
 # Our Team
 <p>
 
-![1197050050](https://img.shields.io/badge/1197050050-Ikhsan%20Khoerul-blue)
-
-![1197050051](https://img.shields.io/badge/1197050051-Imam%Firdaus-blue)
+![1197050050](https://img.shields.io/badge/1197050050-Ikhsan%20Khoerul-blue)![1197050051](https://img.shields.io/badge/1197050051-Imam%20Firdaus-blue)
 
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 
@@ -11,7 +9,7 @@
 
 ![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue)
 
-![1197050095](https://img.shields.io/badge/1197050095-Naufal%Rizqullah-blue)
+![1197050095](https://img.shields.io/badge/1197050095-Naufal%20Rizqullah-blue)
 </p>
 
 # Arsitektur
