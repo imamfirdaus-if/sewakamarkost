@@ -1,6 +1,8 @@
 # Our Team
 <p>
 
+![avatar](https://images.weserv.nl/?assets/teams/muhamad-taopik.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 
 <br>
