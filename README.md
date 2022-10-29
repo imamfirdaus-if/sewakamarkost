@@ -1,5 +1,5 @@
 # Our Team
-<p align="center">
+<p>
 
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 
