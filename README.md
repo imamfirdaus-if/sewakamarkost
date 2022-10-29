@@ -1,8 +1,13 @@
 # Our Team
-![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-orange)
+<p align="center">
+
+![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-green)
+<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
+
+</p>
 
 # Arsitektur
-![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blue)
+![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
@@ -11,7 +16,7 @@
 # KostKita Documentation
 
 ## Customer Service
-![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-blue)
+![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
 
 ### Change directory to `customers`
 ```
@@ -35,7 +40,7 @@ http://localhost:3000/
 
 
 ## Employee Service
-![Employee_Service](https://img.shields.io/badge/Employee%20Service-Kost%20Kita-blue)
+![Employee_Service](https://img.shields.io/badge/Employee%20Service-Kost%20Kita-green)
 
 ### Change directory to `employees`
 ```
@@ -59,7 +64,7 @@ http://localhost:4545/
 
 
 ## Object Service
-![Object_Service](https://img.shields.io/badge/Object%20Service-Kost%20Kita-blue)
+![Object_Service](https://img.shields.io/badge/Object%20Service-Kost%20Kita-green)
 
 ### Change directory to `objects`
 ```
@@ -82,7 +87,7 @@ http://localhost:4000/
 ```
 
 ## Order Service
-![Order_Service](https://img.shields.io/badge/Order%20Service-Kost%20Kita-blue)
+![Order_Service](https://img.shields.io/badge/Order%20Service-Kost%20Kita-green)
 
 ### Change directory to `orders`
 ```
