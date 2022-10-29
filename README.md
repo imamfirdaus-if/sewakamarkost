@@ -8,7 +8,7 @@
 
 <br>
 
-![1197050050](https://img.shields.io/badge/1197050050-Ikhsan%20Khoerul-blue) ![1197050051](https://img.shields.io/badge/1197050051-Imam%20Firdaus-blue) ![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue) ![1197050095](https://img.shields.io/badge/1197050095-Naufal%20Rizqullah-blue)
+![1197050050](https://img.shields.io/badge/050-Ikhsan%20Khoerul-blue) ![1197050051](https://img.shields.io/badge/051-Imam%20Firdaus-blue) ![1197050081](https://img.shields.io/badge/081-Muhamad%20Taopik-blue) ![1197050095](https://img.shields.io/badge/095-Naufal%20Rizqullah-blue)
 
 </p>
 
