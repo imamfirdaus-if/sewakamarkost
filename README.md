@@ -15,6 +15,7 @@
 
 ![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue)
 
+<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 ![1197050095](https://img.shields.io/badge/1197050095-Naufal%20Rizqullah-blue)
 </p>
 
