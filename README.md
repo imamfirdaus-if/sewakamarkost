@@ -1,10 +1,10 @@
 # Our Team
 <div align='center'>
 
-<img src="assets/teams/Ikhsan-Khoerul.png" width="128"/>
-<img src="assets/teams/Imam-Firdaus.png" width="128"/>
+<img src="assets/teams/IkhsanKhoerul.png" width="128"/>
+<img src="assets/teams/ImamFirdaus.png" width="128"/>
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-<img src="assets/teams/Naufal-Rizqullah.png" width="128"/>
+<img src="assets/teams/NaufalRizqullah.png" width="128"/>
 
 <br>
 
