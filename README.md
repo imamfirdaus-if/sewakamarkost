@@ -1,8 +1,11 @@
 # Our Team
 <p align="center">
 
-![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-green)
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
+
+<br>
+
+![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-green)
 
 </p>
 
