@@ -1,22 +1,15 @@
 # Our Team
-<p>
+<p align="center">
 
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-
-![1197050050](https://img.shields.io/badge/1197050050-Ikhsan%20Khoerul-blue)
-
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-
-![1197050051](https://img.shields.io/badge/1197050051-Imam%20Firdaus-blue)
-
+<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 <img src="assets/teams/muhamad-taopik.jpg" width="128"/>
 
 <br>
 
-![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue)
+![1197050050](https://img.shields.io/badge/1197050050-Ikhsan%20Khoerul-blue) ![1197050051](https://img.shields.io/badge/1197050051-Imam%20Firdaus-blue) ![1197050081](https://img.shields.io/badge/1197050081-Muhamad%20Taopik-blue) ![1197050095](https://img.shields.io/badge/1197050095-Naufal%20Rizqullah-blue)
 
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
-![1197050095](https://img.shields.io/badge/1197050095-Naufal%20Rizqullah-blue)
 </p>
 
 # Arsitektur
