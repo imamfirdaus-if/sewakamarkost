@@ -1,5 +1,5 @@
 # Our Team
-<p align="center">
+<div align='center'>
 
 <img src="assets/teams/user.png" width="128"/>
 <img src="assets/teams/user.png" width="128"/>
@@ -10,7 +10,7 @@
 
 ![1197050050](https://img.shields.io/badge/050-Ikhsan%20Khoerul-blue) ![1197050051](https://img.shields.io/badge/051-Imam%20Firdaus-blue) ![1197050081](https://img.shields.io/badge/081-Muhamad%20Taopik-blue) ![1197050095](https://img.shields.io/badge/095-Naufal%20Rizqullah-blue)
 
-</p>
+</div>
 
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
