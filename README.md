@@ -12,12 +12,15 @@
 
 </div>
 
+# Teknologi yang digunakan
+![Teknologi](https://img.shields.io/badge/Teknologi-yang-digunakan-Kost%20Kita-green)
+
+![Teknologi_Assets](assets/teknologi/teknologi.png)
+
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
-
-# Platform
 
 # KostKita Documentation
 
