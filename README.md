@@ -36,6 +36,16 @@
 npm run dev
 ```
 
+### Customer Page
+
+![POST_CUSTOMER](assets/services/ui/post-customer.jpeg)
+
+![GET_CUSTOMERS](assets/services/ui/post-customers.jpeg)
+
+### Employee Page 
+
+### Object Page
+
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
 
