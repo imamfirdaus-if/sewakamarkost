@@ -1,0 +1,33 @@
+<% console.log(object) %>
+<table id="example2" class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Nama Kost</th>
+      <th>Harga Sewa</th>
+      <th>Tipe Kost</th>
+      <!-- <th>Aksi</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <% for(let i = 0; i < object.length; i++) { %>
+    <tr>
+      <td><%= i + 1 %></td>
+      <td><%= object[i].namaKost %></td>
+      <td><%= object[i].hargaSewa %></td>
+      <td><%= object[i].tipeKost %></td>
+      <!-- <td>
+        <form
+          action="/object/delete/<%= object[i]._id %>?_method=DELETE"
+          method="POST"
+        >
+          <button class="btn btn-danger btn-sm">
+            <i class="fas fa-trash"></i>
+            Hapus
+          </button>
+        </form>
+      </td> -->
+    </tr>
+    <% } %>
+  </tbody>
+</table>
