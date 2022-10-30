@@ -1,4 +1,6 @@
 # Our Team
+![Teams](https://img.shields.io/badge/Our%20Teams-Kost%20Kita-blueviolet)
+
 <div align='center'>
 
 <img src="assets/teams/IkhsanKhoerul.png" width="128"/>
@@ -13,21 +15,20 @@
 </div>
 
 # Stacks
-
-# Platforms
-![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-green)
-
-![Teknologi_Assets](assets/teknologi/teknologi.png)
+![Stacks](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 # Arsitektur
-![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
+![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-# Platform
+# Platforms
+![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-blueviolet)
+
+![Teknologi_Assets](assets/teknologi/teknologi.png)
 
 # Documentation
-![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-green)
+![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-blueviolet)
 
 ## Run Application
 ![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
