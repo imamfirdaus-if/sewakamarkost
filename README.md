@@ -18,6 +18,8 @@
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
+![Arsitektur_Assets](assets/arsitektur/v1.png)
+
 # Stacks
 ![Stacks](https://img.shields.io/badge/Stacks-Kost%20Kita-blueviolet)
 
@@ -26,7 +28,7 @@
 # Platforms
 ![Platforms](https://img.shields.io/badge/Platforms-Kost%20Kita-blueviolet)
 
-![Platforms_Assets](assets/platforms/platfroms.png)
+![Platforms_Assets](assets/platforms/platforms.png)
 
 # Documentation
 ![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-blueviolet)
