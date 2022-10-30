@@ -19,7 +19,14 @@
 
 # Platform
 
-# KostKita Documentation
+# Kost Kita Documentation
+
+## Run Application
+![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
+
+```
+npm run dev
+```
 
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
