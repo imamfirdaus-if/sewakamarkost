@@ -78,6 +78,8 @@ http://localhost:3000/customer
 }
 ```
 
+![POST_CUSTOMER](assets/services/backend/post-customer.png)
+
 ### [GET] Customers
 
 `URL:`
@@ -85,6 +87,8 @@ http://localhost:3000/customer
 ```
 http://localhost:3000/customer
 ```
+
+![GET_CUSTOMERS](assets/services/backend/get-customers.png)
 
 ## Employee Service
 ![Employee_Service](https://img.shields.io/badge/Employee%20Service-Kost%20Kita-green)
@@ -128,6 +132,8 @@ http://localhost:4545/employee
 }
 ```
 
+![POST_EMPLOYEE](assets/services/backend/post-employee.png)
+
 ### [GET] Employees
 
 `URL:`
@@ -136,6 +142,7 @@ http://localhost:4545/employee
 http://localhost:4545/employees
 ```
 
+![GET_EMPLOYEES](assets/services/backend/get-employees.png)
 
 ## Object Service
 ![Object_Service](https://img.shields.io/badge/Object%20Service-Kost%20Kita-green)
@@ -178,6 +185,8 @@ http://localhost:4000/object
 }
 ```
 
+![POST_OBJECT](assets/services/backend/post-object.png)
+
 ### [GET] Objects
 
 `URL:`
@@ -186,6 +195,7 @@ http://localhost:4000/object
 http://localhost:4000/object
 ```
 
+![GET_OBJECTS](assets/services/backend/get-objects.png)
 
 ## Order Service
 ![Order_Service](https://img.shields.io/badge/Order%20Service-Kost%20Kita-green)
@@ -229,6 +239,8 @@ http://localhost:1201/order
 }
 ```
 
+![POST_ORDER](assets/services/backend/post-order.png)
+
 ### [GET] Orders
 
 `URL:`
@@ -236,3 +248,5 @@ http://localhost:1201/order
 ```
 http://localhost:1201/orders
 ```
+
+![GET_ORDERS](assets/services/backend/get-orders.png)

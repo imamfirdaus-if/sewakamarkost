@@ -1,19 +1,8 @@
 {
   "dependencies": {
     "body-parser": "^1.20.0",
+    "dotenv": "^16.0.3",
     "express": "^4.18.1",
-    "mongoose": "^6.6.2",
-    "nodemon": "^2.0.20"
-  },
-  "name": "employees",
-  "version": "1.0.0",
-  "main": "employees.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon employees.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "mongoose": "^6.6.2"
+  }
 }

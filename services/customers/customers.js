@@ -3,13 +3,16 @@ const app = express();
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
-require('./Customer');
-const Customer = mongoose.model('Customer');
+require("./customer");
+const Customer = mongoose.model("Customer")
+
+// Load Environment
+require("dotenv").config()
 
 mongoose.connect(
-  'mongodb+srv://IFTECH-MYKOST:Bosmoeda@iftech-mykost.dequn3y.mongodb.net/test?retryWrites=true&w=majority',
+  process.env.MONGODB_URI,
   () => {
-    console.log('Database berhasil terhubung!');
+    console.log("Database berhasil terhubung!");
   }
 );
 
@@ -34,9 +37,9 @@ app.get('/customer', (req, res) => {
 app.post('/customer', (req, res) => {
   const newCustomer = {
     id_customer: req.body.id_customer,
-    nama: req.body.nama,
-    telpon: req.body.telpon,
-    kota: req.body.kota,
+      nama: req.body.nama,
+      telpon: req.body.telpon,
+      kota: req.body.kota,
   };
 
   const customer = new Customer(newCustomer);
@@ -82,6 +85,6 @@ app.delete('/customer/:id', (req, res) => {
     });
 });
 
-app.listen(4546, () => {
+app.listen(3000, () => {
   console.log('Customer services are running');
 });
