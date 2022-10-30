@@ -1,5 +1,5 @@
 # Our Team
-![Teams](https://img.shields.io/badge/Our%20Teams-Kost%20Kita-blueviolet)
+![Teams](https://img.shields.io/badge/Our%20Team-Kost%20Kita-blueviolet)
 
 <div align='center'>
 
@@ -21,12 +21,13 @@
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
 # Stacks
-![Stacks](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
+![Stacks](https://img.shields.io/badge/Stacks-Kost%20Kita-blueviolet)
+
+![Stacks_Assets](assets/teknologi/teknologi.png)
 
 # Platforms
-![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-blueviolet)
+![Platforms](https://img.shields.io/badge/Platforms-Kost%20Kita-blueviolet)
 
-![Teknologi_Assets](assets/teknologi/teknologi.png)
 
 # Documentation
 ![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-blueviolet)
