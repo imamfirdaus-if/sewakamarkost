@@ -40,7 +40,7 @@ npm run dev
 
 ![POST_CUSTOMER](assets/services/ui/post-customer.jpeg)
 
-![GET_CUSTOMERS](assets/services/ui/post-customers.jpeg)
+![GET_CUSTOMERS](assets/services/ui/get-customers.jpeg)
 
 ### Employee Page 
 
