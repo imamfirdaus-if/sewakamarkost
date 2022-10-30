@@ -12,7 +12,7 @@
 
 </div>
 
-# Teknologi yang digunakan
+# Platform Teknologi yang digunakan
 ![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-green)
 
 ![Teknologi_Assets](assets/teknologi/teknologi.png)
@@ -22,12 +22,8 @@
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-<<<<<<< HEAD
-# KostKita Documentation
-=======
-# Platform
 
-# Kost Kita [DOCUMENTATION]
+# KostKita Documentation
 
 ## Run Application
 ![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
