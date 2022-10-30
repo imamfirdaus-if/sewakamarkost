@@ -1,9 +1,11 @@
 # Our Team
+![Teams](https://img.shields.io/badge/Our%20Team-Kost%20Kita-blueviolet)
+
 <div align='center'>
 
 <img src="assets/teams/IkhsanKhoerul.png" width="128"/>
 <img src="assets/teams/ImamFirdaus.png" width="128"/>
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
+<img src="assets/teams/MuhamadTaopik.png" width="128"/>
 <img src="assets/teams/NaufalRizqullah.png" width="128"/>
 
 <br>
@@ -12,14 +14,31 @@
 
 </div>
 
+
 # Arsitektur
-![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
+![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-# Platform
+# Stacks
+![Stacks](https://img.shields.io/badge/Stacks-Kost%20Kita-blueviolet)
 
-# KostKita Documentation
+![Stacks_Assets](assets/stacks/stack.png)
+
+# Platforms
+![Platforms](https://img.shields.io/badge/Platforms-Kost%20Kita-blueviolet)
+
+![Platforms_Assets](assets/platforms/platforms.png)
+
+# Documentation
+![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-blueviolet)
+
+## Run Application
+![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
+
+```
+npm run dev
+```
 
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)

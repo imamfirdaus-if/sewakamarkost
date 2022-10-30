@@ -14,7 +14,7 @@ const Order = mongoose.model("Order")
 app.use(bodyParser.json())
 
 // Connection to MongoDB Atlas
-mongoose.connect(process.env.MONGODB_URI, {
+mongoose.connect(process.env.ORDER_SERVICE_URL, {
         useNewUrlParser: true
     })
     .then(() => console.log("Database connected - Orders"))
@@ -64,6 +64,6 @@ app.get("/orders", (req, res) =>{
 })
 
 
-app.listen(process.env.PORT, () => {
+app.listen(process.env.ORDER_PORT, () => {
     console.log("Orders Service's Running!")
 })
