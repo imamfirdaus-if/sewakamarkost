@@ -17,7 +17,9 @@
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-# Platform
+# Stack
+
+# Platforms
 
 # Kost Kita [DOCUMENTATION]
 
