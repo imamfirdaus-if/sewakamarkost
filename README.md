@@ -13,7 +13,7 @@
 </div>
 
 # Teknologi yang digunakan
-![Teknologi](https://img.shields.io/badge/Teknologi-yang-digunakan-Kost%20Kita-green)
+![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-green)
 
 ![Teknologi_Assets](assets/teknologi/teknologi.png)
 
