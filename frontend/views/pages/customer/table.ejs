@@ -1,0 +1,29 @@
+<table id="example2" class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Nama Customer</th>
+      <th>Telepon</th>
+      <th>Kota</th>
+      <!-- <th>Aksi</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <% for(let i = 0; i < customer.length; i++) { %>
+    <tr>
+      <td><%= i + 1 %></td>
+      <td><%= customer[i].nama %></td>
+      <td><%= customer[i].telpon%></td>
+      <td><%= customer[i].kota%></td>
+      <!-- <td>
+        <form action="/employee/delete/<%= customer[i]._id %>" method="POST">
+          <button class="btn btn-danger btn-sm">
+            <i class="fas fa-trash"></i>
+            Hapus
+          </button>
+        </form>
+      </td> -->
+    </tr>
+    <% } %>
+  </tbody>
+</table>

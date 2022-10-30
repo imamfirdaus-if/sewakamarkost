@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include ("../../partials/header.ejs") %>
+  <body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+      <%- include ("../../partials/navbar.ejs")%> <%- include
+      ("../../partials/sidebar.ejs") %>
+      <!-- Content Wrapper. Contains page content -->
+
+      <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+          <div class="container-fluid">
+            <div class="row mb-2">
+              <div class="col-sm-6">
+                <h1>Employee</h1>
+              </div>
+              <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                  <li class="breadcrumb-item"><a href="/">Employee</a></li>
+                  <li class="breadcrumb-item">
+                    <a href="/pages/employee">Employee</a>
+                  </li>
+                  <li class="breadcrumb-item active">Tambah</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <!-- /.container-fluid -->
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-12">
+                <div class="card card-primary">
+                  <div class="card-header">
+                    <h3 class="card-title">Form Tambah Employee</h3>
+                  </div>
+                  <!-- /.card-header -->
+                  <!-- form start -->
+                  <form action="/employee/create" method="POST">
+                    <div class="card-body">
+                      <div class="form-group">
+                        <label for="employee_name">Nama Pegawai</label>
+                        <input
+                          type="text"
+                          class="form-control"
+                          name="employee_name"
+                          id="employee_name"
+                          placeholder="Masukkan Nama Pegawai"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <label for="employee_birthdate">Tanggal Lahir</label>
+                        <input
+                          type="date"
+                          class="form-control"
+                          name="employee_birthdate"
+                          id="employee_birthdate"
+                          placeholder="Masukkan Tangal Lahir"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <label for="shift">Shift</label>
+                        <input
+                          type="text"
+                          class="form-control"
+                          name="shift"
+                          id="shit"
+                          placeholder="Masukkan Shift"
+                        />
+                      </div>
+                      <div class="form-group">
+                        <label for="salary">Salary</label>
+                        <input
+                          type="number"
+                          class="form-control"
+                          name="salary"
+                          id="salary"
+                          placeholder="Masukkan Salary"
+                        />
+                      </div>
+                    </div>
+                    <!-- /.card-body -->
+                    <div class="card-footer">
+                      <button type="submit" class="btn btn-primary">
+                        Simpan
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <!-- /.col -->
+            </div>
+            <!-- /.row -->
+          </div>
+          <!-- /.container-fluid -->
+        </section>
+        <!-- /.content -->
+      </div>
+      <!-- /.content-wrapper -->
+      <%- include ("../../partials/footer.ejs") %>
+    </div>
+    <!-- ../../wrapper -->
+    <%- include ("../../partials/js.ejs") %>
+  </body>
+</html>

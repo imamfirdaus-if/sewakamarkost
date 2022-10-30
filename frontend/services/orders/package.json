@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  },
+  "name": "orders",
+  "version": "1.0.0",
+  "main": "orders.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon orders.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

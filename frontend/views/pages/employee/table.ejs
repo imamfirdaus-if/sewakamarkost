@@ -1,0 +1,29 @@
+<table id="example2" class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Nama Pegawai</th>
+      <th>Shift</th>
+      <th>Gaji</th>
+      <!-- <th>Aksi</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <% for(let i = 0; i < employee.length; i++) { %>
+    <tr>
+      <td><%= i + 1 %></td>
+      <td><%= employee[i].employee_name %></td>
+      <td><%= employee[i].shift%></td>
+      <td><%= employee[i].salary%></td>
+      <!-- <td>
+        <form action="/employee/delete/<%= employee[i]._id %>" method="POST">
+          <button class="btn btn-danger btn-sm">
+            <i class="fas fa-trash"></i>
+            Hapus
+          </button>
+        </form>
+      </td> -->
+    </tr>
+    <% } %>
+  </tbody>
+</table>
