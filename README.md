@@ -3,7 +3,7 @@
 
 <img src="assets/teams/IkhsanKhoerul.png" width="128"/>
 <img src="assets/teams/ImamFirdaus.png" width="128"/>
-<img src="assets/teams/muhamad-taopik.jpg" width="128"/>
+<img src="assets/teams/MuhamadTaopik.png" width="128"/>
 <img src="assets/teams/NaufalRizqullah.png" width="128"/>
 
 <br>
@@ -22,7 +22,20 @@
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
+<<<<<<< HEAD
 # KostKita Documentation
+=======
+# Platform
+
+# Kost Kita Documentation
+
+## Run Application
+![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
+
+```
+npm run dev
+```
+>>>>>>> c97e581fa9bf4bfb95e1efb13c5adcb7ea711282
 
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
