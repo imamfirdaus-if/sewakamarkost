@@ -19,7 +19,7 @@
 
 # Platform
 
-# Kost Kita Documentation
+# Kost Kita [DOCUMENTATION]
 
 ## Run Application
 ![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
