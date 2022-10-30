@@ -27,6 +27,7 @@
 # Platform
 
 # Documentation
+![Documentation](https://img.shields.io/badge/Documentation-Kost%20Kita-green)
 
 ## Run Application
 ![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
