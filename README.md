@@ -12,16 +12,21 @@
 
 </div>
 
+# Stacks
+
+# Platforms
+![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-green)
+
+![Teknologi_Assets](assets/teknologi/teknologi.png)
+
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-green)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-# Stack
+# Platform
 
-# Platforms
-
-# Kost Kita [DOCUMENTATION]
+# Documentation
 
 ## Run Application
 ![Run_Application](https://img.shields.io/badge/Run%20Application-Kost%20Kita-orange)
