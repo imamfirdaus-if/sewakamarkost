@@ -109,6 +109,33 @@ nodemon employees.js
 http://localhost:4545/
 ```
 
+### [POST] Employee
+
+`URL:`
+
+```
+http://localhost:4545/employee
+```
+
+`JSON:`
+
+```
+{
+    "employee_name":"MTech",
+    "employee_birth_date":"2000-08-22",
+    "shift":"Monday",
+    "salary":"5000000"
+}
+```
+
+### [GET] Employees
+
+`URL:`
+
+```
+http://localhost:4545/employees
+```
+
 
 ## Object Service
 ![Object_Service](https://img.shields.io/badge/Object%20Service-Kost%20Kita-green)
@@ -133,6 +160,33 @@ nodemon objects.js
 http://localhost:4000/
 ```
 
+### [POST] Object
+
+`URL:`
+
+```
+http://localhost:4000/object
+```
+
+`JSON:`
+
+```
+{
+    "namaKost": "Gayo",
+    "hargaSewa": 400000,
+    "tipeKost": "Putra"
+}
+```
+
+### [GET] Objects
+
+`URL:`
+
+```
+http://localhost:4000/object
+```
+
+
 ## Order Service
 ![Order_Service](https://img.shields.io/badge/Order%20Service-Kost%20Kita-green)
 
@@ -154,4 +208,31 @@ nodemon orders.js
 ### PORT
 ```
 http://localhost:1201/
+```
+
+### [POST] Order
+
+`URL:`
+
+```
+http://localhost:1201/order
+```
+
+`JSON:`
+
+```
+{
+    "employeeID": "63491a36c4b3090638141c07",
+    "customerID": "634911879be9039886b13a12",
+    "objectID": "63491a56cd7464256ecf36e0",
+    "orderCode": "ORD789"
+}
+```
+
+### [GET] Orders
+
+`URL:`
+
+```
+http://localhost:1201/orders
 ```
