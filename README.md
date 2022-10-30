@@ -35,7 +35,6 @@
 ```
 npm run dev
 ```
->>>>>>> c97e581fa9bf4bfb95e1efb13c5adcb7ea711282
 
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
