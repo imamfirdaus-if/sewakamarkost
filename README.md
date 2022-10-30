@@ -14,13 +14,14 @@
 
 </div>
 
-# Stacks
-![Stacks](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
+
+# Stacks
+![Stacks](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
 # Platforms
 ![Teknologi](https://img.shields.io/badge/Teknologi-Kost%20Kita-blueviolet)
