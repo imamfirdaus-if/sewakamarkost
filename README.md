@@ -44,7 +44,15 @@ npm run dev
 
 ### Employee Page 
 
+![POST_EMPLOYEE](assets/services/ui/post-employee.jpeg)
+
+![GET_EMPLOYEES](assets/services/ui/get-employees.jpeg)
+
 ### Object Page
+
+![POST_OBJECT](assets/services/ui/post-object.jpeg)
+
+![GET_OBJECTS](assets/services/ui/get-objects.jpeg)
 
 ## Customer Service
 ![Customer_Service](https://img.shields.io/badge/Customer%20Service-Kost%20Kita-green)
