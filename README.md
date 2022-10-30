@@ -18,14 +18,10 @@
 # Arsitektur
 ![Arsitektur](https://img.shields.io/badge/Arsitektur-Kost%20Kita-blueviolet)
 
+
 ![Arsitektur_Assets](assets/arsitektur/v2.png)
 
-# Stacks
-![Stacks](https://img.shields.io/badge/Stacks-Kost%20Kita-blueviolet)
-
-![Stacks_Assets](assets/stacks/stack.png)
-
-# Platforms
+# Stacks/Platforms
 ![Platforms](https://img.shields.io/badge/Platforms-Kost%20Kita-blueviolet)
 
 ![Platforms_Assets](assets/platforms/platforms.png)
@@ -63,6 +59,32 @@ nodemon customers.js
 http://localhost:3000/
 ```
 
+### [POST] Customer
+
+`URL:`
+
+```
+http://localhost:3000/customer
+```
+
+`JSON:`
+
+```
+{
+    "id_customer":"0003",
+    "nama":"Ikhsan Khoerul",
+    "telpon":"085156724566",
+    "kota":"Bandung"
+}
+```
+
+### [GET] Customers
+
+`URL:`
+
+```
+http://localhost:3000/customer
+```
 
 ## Employee Service
 ![Employee_Service](https://img.shields.io/badge/Employee%20Service-Kost%20Kita-green)
